@@ -1,0 +1,5 @@
+Contact: mailto:info@lentita.com
+Expires: 2027-09-10T23:59:59Z
+Preferred-Languages: it, en
+Canonical: https://leiora.it/.well-known/security.txt
+Policy: https://leiora.it/privacy.html

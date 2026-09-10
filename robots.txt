@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leiora.it/sitemap.xml
